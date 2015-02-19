@@ -2,7 +2,7 @@
 /*
   Plugin Name:  No Pingbak
   Description:  Désactiver les pingbacks sur tous les articles. D'après https://mestrucspour.wordpress.com/2015/02/06/desactiver-pingbacks/
-  Plugin URI:   http://www.yvangodard.me
+  Plugin URI:   http://goo.gl/tIsO3L
   Version:      1.0
   Author:       Yvan GODARD
   Author URI:   http://www.yvangodard.me
